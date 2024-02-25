@@ -1,2 +1,5 @@
-# openai-prompt-engineering
-A prompt engieering project using OpenAI models.
+
+
+Setup env
+
+https://platform.openai.com/docs/quickstart?context=python
